@@ -36,6 +36,6 @@ ETHEReact is a full stack DApp; demonstrating e-commerce capabilities without an
 
 THATS IT! Welcome to e-commerce on a decentralized platform! The UI is pretty bare bone. But, nonetheless, it demonstrates a full swing of capabilities from Supplier adding a product to market place -> Customer making a purchase -> Supplier Shipping the order -> Customer acknowledging the delivery! All of this on a BLOCKCHAIN! Pretty exciting! 
 
-I would love to learn what you build from here with the foundation in place. Please keep me posted @ pruthvikumar.123@gmail.com. I would be happy to support/guide wherever required.
+I would love to learn what you build from here with the foundation in place. Please keep me posted @ riki.tanaka04@gmail.com. I would be happy to support/guide wherever required.
 # Author
 [Riki Tanaka - @riki-tanaka](https://riki-tanaka.medium.com)
